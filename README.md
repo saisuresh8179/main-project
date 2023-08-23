@@ -29,23 +29,3 @@ dlib==19.17.0
 imutils==0.5.2
 opencv-python==4.1.0
 pyautogui==0.9.4
-
-## SAMPLE PORTAL
-
-![Screenshot 2019-07-03 11:36:56](https://user-images.githubusercontent.com/45517467/60567290-2b0e1600-9d87-11e9-996e-885b83b55373.png)
-
-Here, the user in front of the camera in blinking his left eye for initiating a left click. The black window will show the current frames per second and shows whatever action we are doing, for example, moving the mouse, left click, right click and also shows whether the scroll mode is on or not. 
-
-## TEAM MEMBERS
-
-1. Arihant Gaur
-2. Nilakshi Rekhawar
-3. Shubhan Rukumangad
-4. Akshata Kinage
-
-## MENTORS
-
-1. Rohit Lal
-2. Abhay Khandelwal
-3. Shubham Chauhan
-
